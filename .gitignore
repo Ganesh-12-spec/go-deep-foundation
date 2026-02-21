@@ -1,0 +1,13 @@
+# Go binaries
+*.exe
+*.out
+*.test
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+
+# Env
+.env
